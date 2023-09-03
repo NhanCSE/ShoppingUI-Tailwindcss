@@ -4,7 +4,7 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 const Banner = () => {
     const [text] = useTypewriter({
         words: [
-            "Your happy is our passson.",
+            "Your happiness is our passson.",
             "Providing outstanding serveice personally integrated for you.",
             "1-hour delivery to Ho Chi Minh City and Ha Noi City.",
         ],
